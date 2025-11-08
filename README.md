@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm a beginner Python developer 
+I created this GitHub profile to gain experience and look for job opportunities. 
+I’ll be happy to get any feedback or code reviews to help me improve! 
 <!--
 **SkyRaks/SkyRaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
