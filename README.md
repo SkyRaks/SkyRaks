@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a beginner Python developer 
+I'm a beginner developer 
 I created this GitHub profile to gain experience and look for job opportunities. 
 I’ll be happy to get any feedback or code reviews to help me improve! 
 <!--
